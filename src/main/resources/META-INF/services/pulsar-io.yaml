@@ -1,0 +1,3 @@
+name: pulsar-inspector
+description: inspects the Pulsar classloader
+sourceClass: com.github.lhotari.pulsarinspector.PulsarInspectorSource
